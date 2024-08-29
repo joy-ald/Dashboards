@@ -1,6 +1,6 @@
 # Dashboards
 
-![Nashville Building Permits](Property/Nashville Building Permits.png)
+![Nashville Building Permits](https://github.com/joy-ald/Dashboards/blob/main/Property/Nashville%20Building%20Permits.png)
 
 Here you can find dashboards that demonstrates my skills in story telling using the trends in data and visualization. Data was collected from public websites like Data.gov.
 I mainly used Python,SQL commands and Tableau visuals to render the story.
