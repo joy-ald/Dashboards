@@ -8,4 +8,4 @@ I used Python, SQL commands and Tableau to render the story.
 
 ## Dashboard List
 
-- __Property__: This dashboard shows an interesting trend in requested building permits in and around Nashville.
+- __Property__: This dashboard shows an interesting trend in requested building permits in and around Nashville. Current trend indicates about 30% increase in permits and cost for Nashville metropoliton and Davidson county.
