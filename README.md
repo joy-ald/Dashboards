@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/{joy-ald}/count.svg)
+
 # Dashboards
 
 ![Property/Dashboard 1.png](https://github.com/joy-ald/Dashboards/blob/2a477015d6087a9fa20424def7384a9d80f25deb/Property/Dashboard%201.png)
